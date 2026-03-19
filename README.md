@@ -23,7 +23,7 @@
 
 # 📖 Hello Mindbyte Academy
 
-> It's a website dedicated to an institution called "Mindbyte Academy.
+It's a website dedicated to an institution called "Mindbyte Academy.
 
 Mindbyte Academy is a website dedicated to an institution specifically for programmers, coders and tech savies.
 
@@ -33,13 +33,13 @@ Visual Studio Code Software.
 
 ### Tech Stack
 
-> The tech stacks used in writin this line of code is Visual Studio Code.
+The tech stacks language used in writing this line of code are html and CSS.
 
 
 
 ## 💻 Getting Started
 
-> A repository link will be provided along with the readme file.
+A repository link will be provided along with the readme file.
 
 
 
@@ -67,12 +67,12 @@ Contributions, issues, and feature requests are welcome!
 
 
 ## ⭐️ Show your support 
-> If you like this project feel free to support the author by sending him words of encourage and  bringing more work to his table.
+If you like this project feel free to support the author by sending him words of encourage and  bringing more work to his table.
 
 
 ## 🙏 Acknowledgments 
 
-> I would like to thank my boss Dr. AbayomiOlaoye
+I would like to thank my boss Dr. AbayomiOlaoye
 
 
 ## 📝 License 
