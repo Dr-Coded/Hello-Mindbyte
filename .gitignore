@@ -1,2 +1,5 @@
 node_modules/
 hintrc.txt
+stylelintrc.json
+package.json
+package-lock.json
